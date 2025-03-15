@@ -1,0 +1,18 @@
+# Problem: Search in 2D Array
+
+### Task:
+
+Write an efficient algorithm that searches for a value `target` in an `m x n` integer matrix. The matrix has the following properties:
+
+- Integers in each row are sorted from left to right.
+- The first integer of each row is greater than the last integer of the previous row.
+
+If the value is found in the matrix, return `true`; otherwise, return `false`.
+
+### Example:
+
+- Input: `matrix = [[1, 4, 7, 11], [2, 5, 8, 12], [3, 6, 9, 16], [10, 13, 14, 17]], target = 5`
+- Output: `true`
+
+- Input: `matrix = [[1, 4, 7, 11], [2, 5, 8, 12], [3, 6, 9, 16], [10, 13, 14, 17]], target = 20`
+- Output: `false`

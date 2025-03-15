@@ -1,0 +1,10 @@
+# Problem: Binary Search
+
+### Task:
+
+Given an array of integers which is sorted in ascending order, and a target integer, write a function to search for whether the target integer is present in the given array. If it is present, return its index. Otherwise, return -1.
+
+### Requirements:
+
+- You must write an algorithm with **O(log n)** runtime complexity.
+- The input array is sorted in ascending order.

@@ -1,0 +1,5 @@
+# Problem: DLL Remove Nodes by Value
+
+Create a Doubly Linked List class. Write instance methods for this class to be able to:
+
+1. Remove all the nodes in the doubly linked list which have their value equal to a given value.

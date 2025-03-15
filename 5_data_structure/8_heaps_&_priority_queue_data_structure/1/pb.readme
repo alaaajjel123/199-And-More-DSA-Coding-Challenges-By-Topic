@@ -1,0 +1,23 @@
+# Problem: Max Heap Class
+
+### Task:
+
+Write a Max Heap Class that supports the following operations:
+
+1. **Building a Max Heap from an input array**: 
+   - You should be able to convert an unsorted array into a valid Max Heap.
+
+2. **Inserting integers in the Heap**: 
+   - Implement an insert operation to add a new integer into the heap while maintaining the heap property.
+
+3. **Removing the Heap’s maximum / root value**: 
+   - Implement a method to remove and return the maximum value (the root node) from the heap while maintaining the heap property.
+
+4. **Peeking at the Heap’s maximum / root value**: 
+   - Implement a method that returns the maximum value (the root node) without removing it from the heap.
+
+### Notes:
+
+- The heap will be represented in the form of an array.
+- A Max Heap is a complete binary tree where the value of each parent node is greater than or equal to the values of its children.
+- The root node will always be the maximum element.

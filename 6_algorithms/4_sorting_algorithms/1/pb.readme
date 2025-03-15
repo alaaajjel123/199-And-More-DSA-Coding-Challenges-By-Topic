@@ -1,0 +1,14 @@
+# Problem: Bubble Sort
+
+### Task:
+
+You are given an array of integers. Write a function that will take this array as input and return the sorted array using Bubble sort.
+
+### Example:
+
+- Input: `[5, 3, 8, 4, 2]`
+- Output: `[2, 3, 4, 5, 8]`
+
+### Note:
+
+Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.

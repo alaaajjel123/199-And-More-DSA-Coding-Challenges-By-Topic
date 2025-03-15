@@ -1,0 +1,16 @@
+# Problem: Find First and Last Position of Element in Sorted Array
+
+### Task:
+
+You are given an array of integers sorted in non-decreasing order. Your task is to find the starting and ending position of a given target value. 
+
+- If the target is not found in the array, return `[-1, -1]`.
+- You must write an algorithm with **O(log n)** runtime complexity.
+
+### Example:
+
+- Input: `nums = [5,7,7,8,8,10]`, Target: `8`
+- Output: `[3, 4]` (since the first and last positions of 8 are at indices 3 and 4 respectively)
+
+- Input: `nums = [5,7,7,8,8,10]`, Target: `6`
+- Output: `[-1, -1]` (since 6 is not present in the array)

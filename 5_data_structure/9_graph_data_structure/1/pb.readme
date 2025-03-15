@@ -1,0 +1,20 @@
+# Problem: Breadth-First Search (BFS) Traversal of Graph
+
+### Task:
+
+You are given an undirected graph stored:
+
+1. As an **adjacency list**
+2. As an **adjacency matrix**
+
+Write functions to traverse this graph using the **Breadth-First Search (BFS)** approach. 
+
+### Requirements:
+
+- As you traverse the graph, store the values of the vertices in an array.
+- Return this array after completing the BFS traversal.
+
+### Notes:
+
+- The BFS traversal starts from a given node and explores all its neighbors at the present depth level before moving on to nodes at the next depth level.
+- Ensure to handle both the adjacency list and adjacency matrix representations of the graph.

@@ -1,0 +1,11 @@
+# Problem: DLL Remove Insert
+
+Create a Doubly Linked List class. Write instance methods for this class to be able to:
+
+## Done in Previous Question:
+1. Remove a node when the node to be removed is given as input.
+
+## Do as Part of This Exercise:
+2. Insert a node before a particular node (both the node to be inserted and the node before which the insertion is to happen will be given as input). If the node to be inserted is:
+   - Part of the linked list, then shift its place to the desired location.
+   - A new node, then insert the new node at the place desired.

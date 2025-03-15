@@ -1,0 +1,11 @@
+# Problem: Unique Permutations
+
+Given a collection of numbers, `nums`, that might contain duplicates, return all possible unique permutations in any order.
+
+### Example:
+
+Input:
+nums = [3,3,2]
+
+Output:
+[[3,3,2], [3,2,3], [2,3,3]]

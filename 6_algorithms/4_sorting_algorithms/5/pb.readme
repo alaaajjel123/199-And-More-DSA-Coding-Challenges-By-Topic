@@ -1,0 +1,14 @@
+# Problem: Quick Sort
+
+### Task:
+
+You are given an array of integers. Write a function that will take this array as input and return the sorted array using Quick sort.
+
+### Example:
+
+- Input: `[10, 7, 8, 9, 1, 5]`
+- Output: `[1, 5, 7, 8, 9, 10]`
+
+### Note:
+
+Quick sort is a divide-and-conquer algorithm. It selects a pivot element from the array and partitions the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively.

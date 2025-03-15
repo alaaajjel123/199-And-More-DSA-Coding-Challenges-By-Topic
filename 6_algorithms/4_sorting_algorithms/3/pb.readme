@@ -1,0 +1,14 @@
+# Problem: Selection Sort
+
+### Task:
+
+You are given an array of integers. Write a function that will take this array as input and return the sorted array using Selection sort.
+
+### Example:
+
+- Input: `[5, 3, 8, 4, 2]`
+- Output: `[2, 3, 4, 5, 8]`
+
+### Note:
+
+Selection sort is a simple comparison-based sorting algorithm. It repeatedly selects the smallest (or largest, depending on sorting order) element from the unsorted portion of the list and swaps it with the leftmost unsorted element. This process is repeated until the entire list is sorted.

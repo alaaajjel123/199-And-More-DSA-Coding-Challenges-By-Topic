@@ -1,0 +1,9 @@
+# Problem: DLL Insert Node at Desired Position
+
+Create a Doubly Linked List class. Write instance methods for this class to be able to:
+
+### Done in Previous Exercise:
+1. Remove all the nodes in the doubly linked list which have their value equal to a given value.
+
+### Let's Do as Part of This Exercise:
+2. Insert a node at a desired position (node and position are given). The Linked List is 0 indexed. If the given node is a node existing in the Linked List, shift it to the desired position.

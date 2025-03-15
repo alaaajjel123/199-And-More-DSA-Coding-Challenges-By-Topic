@@ -1,0 +1,14 @@
+# Problem: Level Order Traversal of a Binary Tree
+
+### Task 1: Insert Values from Array into Binary Tree
+
+Write an instance method for the Binary Search Tree (BST) class to insert the values given as an array into the Binary Tree (from left to right, level by level). Each value in the array which is not null is to be made a node and added to the tree. 
+
+### Task 2: Level Order Traversal
+
+Write a function that takes the root of a binary tree and returns the level order traversal of its nodes' values. This means the traversal should visit nodes from left to right, level by level.
+
+### Notes:
+- In the level order traversal, the nodes should be visited starting from the root, moving across the tree level by level.
+- Each node in the array should be added to the tree as a node following the binary tree insertion rules (left child for smaller values, right child for larger values).
+- The values should be inserted in the binary tree from the given array in a level-by-level order.

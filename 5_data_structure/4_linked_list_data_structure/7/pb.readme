@@ -1,0 +1,5 @@
+# Problem: Create a Doubly Linked List Class
+
+Write a Doubly Linked List class with instance methods to be able to:
+
+1. Remove a node when the node to be removed is given as input.

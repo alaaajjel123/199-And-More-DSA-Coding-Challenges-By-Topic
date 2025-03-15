@@ -1,0 +1,14 @@
+# Problem: Course Schedule
+
+### Task:
+
+You have to take a total of **n** courses labeled from **0** to **n-1**. Before you can take some courses, you need to take their prerequisite courses. You are given an array **prerequisites** where each element **[x, y]** indicates that to take course **x** you have to take **y** first. 
+
+For example, **[2, 3]** indicates that to take course **2** one has to first take course **3**.
+
+Write a function that takes in **n** (the total number of courses) and the **prerequisite** array and returns **true** if you can complete all courses, else return **false**.
+
+### Notes:
+
+- A course can have multiple prerequisites, but if you can take all courses without creating a cycle in the prerequisites, return true.
+- If there is a cycle in the prerequisites, return false since you would never be able to complete all the courses.

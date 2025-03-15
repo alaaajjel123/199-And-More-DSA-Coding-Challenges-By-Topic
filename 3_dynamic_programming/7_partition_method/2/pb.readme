@@ -1,0 +1,15 @@
+# Problem: Minimum Cuts for Palindrome Partitioning
+
+Given a string `s`, partition `s` such that every substring of the partition is a palindrome.  
+Return the minimum cuts needed for a palindrome partitioning of `s`.
+
+## Example:
+
+**Input:**  
+s = "ppq"
+
+**Output:**  
+1
+
+**Explanation:**  
+The palindrome partitioning ["pp","q"] could be produced using 1 cut.

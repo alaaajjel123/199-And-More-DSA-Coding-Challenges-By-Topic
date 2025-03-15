@@ -1,0 +1,5 @@
+# Problem: Diameter of Binary Tree
+
+### Task:
+
+Write a function which takes in the root of a binary tree and returns the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in the tree. It is not necessary for this path to pass through the root of the tree. The length of a path between two nodes is the number of edges between them.

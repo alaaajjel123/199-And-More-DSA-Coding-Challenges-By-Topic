@@ -1,0 +1,11 @@
+# Problem: Invert a Binary Tree
+
+### Task:
+
+Given the root of a binary tree, invert the tree, and return its root.
+
+### Explanation:
+
+Inverting a binary tree means swapping every left node with its corresponding right node, effectively creating a mirror image of the tree.
+
+

@@ -1,0 +1,5 @@
+# Problem: Convert Sorted Array to Binary Search Tree
+
+### Task:
+
+You are given an array where the elements are strictly in increasing (ascending) order, convert it to a height-balanced binary search tree. A height-balanced binary tree is a binary tree in which the depth of the two subtrees of every node does not differ by more than 1.

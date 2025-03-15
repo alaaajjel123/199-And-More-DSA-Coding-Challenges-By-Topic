@@ -1,0 +1,17 @@
+# Problem: Priority Queue as a Min Binary Heap
+
+### Task:
+
+Implement a **Priority Queue** as a **min Binary Heap**. The **Priority Queue** class should support the following functions:
+
+1. **Enqueue**: 
+   - Insert an element into the priority queue.
+
+2. **Dequeue**: 
+   - Extract the element with the highest priority (lowest numerical priority is treated as highest priority).
+
+### Notes:
+
+- The priority queue will be implemented using a min binary heap.
+- A min binary heap is a complete binary tree where each parent node is smaller than or equal to its children.
+- The root of the heap will hold the smallest element, which corresponds to the highest priority.

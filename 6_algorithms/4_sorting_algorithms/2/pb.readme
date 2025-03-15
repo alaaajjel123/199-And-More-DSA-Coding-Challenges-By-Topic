@@ -1,0 +1,14 @@
+# Problem: Insertion Sort
+
+### Task:
+
+You are given an array of integers. Write a function that will take this array as input and return the sorted array using Insertion sort.
+
+### Example:
+
+- Input: `[5, 3, 8, 4, 2]`
+- Output: `[2, 3, 4, 5, 8]`
+
+### Note:
+
+Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much like sorting playing cards in your hands. The algorithm repeatedly takes the next unsorted element and inserts it into its correct position in the sorted portion of the array.

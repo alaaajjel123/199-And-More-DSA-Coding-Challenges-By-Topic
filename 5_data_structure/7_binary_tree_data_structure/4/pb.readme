@@ -1,0 +1,13 @@
+# Problem: Right and Left Side View of a Binary Tree
+
+### Task 1: Right Side View
+
+Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.
+
+### Task 2: Left Side View
+
+Given the root of a binary tree, imagine yourself standing on the left side of it, return the values of the nodes you can see ordered from top to bottom.
+
+### Notes:
+- The right side view of a binary tree contains the nodes that are visible when viewed from the right side of the tree, from top to bottom.
+- Similarly, the left side view contains the nodes that are visible when viewed from the left side, from top to bottom.

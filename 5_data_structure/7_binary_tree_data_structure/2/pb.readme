@@ -1,0 +1,20 @@
+# Problem: Binary Search Tree Traversal
+
+Write four instance methods for a Binary Search Tree (BST) class to traverse the tree.
+
+### Methods:
+
+1. **Method 1**: Traverse the tree **breadth-first** and return an array that contains all the values of the BST.
+
+2. **Method 2**: Traverse the tree **depth-first** – **In-order** and return an array that contains all the values of the BST.
+
+3. **Method 3**: Traverse the tree **depth-first** – **Pre-order** and return an array that contains all the values of the BST.
+
+4. **Method 4**: Traverse the tree **depth-first** – **Post-order** and return an array that contains all the values of the BST.
+
+### Notes:
+- Breadth-first traversal visits all the nodes level by level.
+- Depth-first traversals include:
+  - In-order: Visit the left subtree, the node, then the right subtree.
+  - Pre-order: Visit the node, the left subtree, then the right subtree.
+  - Post-order: Visit the left subtree, the right subtree, then the node.

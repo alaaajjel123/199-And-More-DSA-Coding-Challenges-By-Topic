@@ -1,0 +1,14 @@
+# Problem: Design a Binary Search Tree
+
+Design a Binary Search Tree class that supports the following operations:
+
+### Methods:
+
+1. **Insert a value** - Insert a new value into the Binary Search Tree.
+
+2. **Remove a value** - This method should remove the first occurrence of the specified value from the tree.
+
+3. **Find a value** - If the value is found in the tree, it should return the node with that value. Otherwise, it should return `false`.
+
+### Notes:
+- The Binary Search Tree follows the standard property that all left child nodes are less than the parent node, and all right child nodes are greater than the parent node.
