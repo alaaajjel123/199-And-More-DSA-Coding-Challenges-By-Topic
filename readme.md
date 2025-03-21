@@ -1,8 +1,8 @@
 # Hello Team! 👋👋
 
-Welcome to this coding problems repository!  
+Welcome to this coding problems repo!  
 
-## 📌 About This Repository  
+## 📌 About This Repo  
 This repository contains a curated collection of some of the best coding problems I've been solving over time, organized by topics. The goal is to explore diverse problem types while maintaining a well-structured resource for continuous learning and skill enhancement.  
 
 ## 🗂 Organization  
